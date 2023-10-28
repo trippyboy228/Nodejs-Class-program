@@ -1,0 +1,19 @@
+const data=[
+    {
+        name:"balbir",
+        email:"balbirthakur@1234gmail.com",
+    },
+    {
+        name:"neha",
+        email:"nehathakur262@gmail.com",
+    },
+    {
+        name:"shivvi",
+        email:"shivvi2222@gmail.com",
+    },
+    {
+        name:"nitika",
+        email:"nitika1212@gmail.com",
+    },
+]
+module.exports=data;
